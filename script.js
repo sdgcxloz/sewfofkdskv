@@ -2,7 +2,7 @@ const addBtn = document.querySelector('#add-btn');
 const input = document.querySelector('#todo-input');
 const list = document.querySelector('#todo-list');
 
-const API = "https://tinkr.tech/sdb/sofia_todos";
+const API = "https://tinkr.tech/sdb/todos";
 
 function loadTodos(){
 
